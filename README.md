@@ -60,7 +60,7 @@ npm run dev
 ### 🚀 Passos para criar e executar
 ```bash
 # Criar o projeto
-expo init mobile
+npx create-expo-app --template 
 # Selecione o template "blank"
 
 # Acessar a pasta
